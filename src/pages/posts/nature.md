@@ -3,9 +3,7 @@ title: My Way to Relax in Nature and Stress Less
 subtitle: >-
   The way I spend time out in nature can affect how much my physical and mental
   health will recharge and how I benefit from it.
-excerpt: >-
-  The way I spend time out in nature can affect how much my physical and mental
-  health will recharge and how I benefit from it.
+excerpt: "a)\_\_\_\nHCLT must appoint a single of contact (POC)\nfor CyberProof to work with after HCLT award this project.\_ The POC should follow-thru the project from\nthe start till the of the project.\n\nb)\_\_\_\nAll works must be conducted in Singapore and\nduring office hours.\n\nc)\_\_\_\nFor item 1 – HCLT must provide all the following documents\n1 week prior to the commencement of the project:\n\ni.\_\_\_\_\_\_\nClient’s approved Information security risk\nassessment document\n\nii.\_\_\_\_ Clients\napproved policies, standards, guidelines, processes and procedures\n\nd)\_\_\_\nFor item 1 – our scope of work does not\ninclude the following:\n\ni.\_\_\_\_\_ Develop or amend any\nInformation security risk assessment document, policies, standards, guidelines,\nprocesses and procedures\n\ne)\_\_\_\nFor item 1 – if client organization is not\nable to provide the required documents, CyberProof will adopt the ISO 27001 as\nour security framework for this assessment \n\nf)\_\_\_\_\nFor item 2 – CyberProof will conduct the system\nhardening review and security configuration review based on the CIS Benchmarks\nor Microsoft Security Baselines or product vendor’s recommended security\nguidelines.\_ Client should facilitate\nCyberProof’s request when requesting for product’s recommended security\nguidelines."
 date: '2019-03-24'
 thumb_img_path: images/4.jpg
 hide_header: true
